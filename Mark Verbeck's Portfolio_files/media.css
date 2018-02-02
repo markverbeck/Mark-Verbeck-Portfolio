@@ -1,0 +1,28 @@
+@media screen and (max-width: 991px) {
+#profilePic {
+	margin-left: 16%;
+}
+
+#port1{
+	margin-left: 37%;
+}
+
+#port2 {
+	margin-left: 37%;
+}
+
+#port3 {
+	margin-left: 37%;
+}
+
+#stream {
+    margin-bottom: 15%;
+}
+p {
+    line-height: 162%;
+    margin-right: -49%;
+    margin-left: -49%;
+}
+
+
+}

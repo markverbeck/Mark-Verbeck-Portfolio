@@ -272,9 +272,12 @@ p {
 }
 
 #blues {
-    margin-bottom: 7%;
+    width: 52%;
+    margin-bottom: -7%;
+    margin-left: 73px;
+    margin-top: -78px;
 }
 
 #bluesGit {
-	margin-top: 31%;
+	margin-top: 18%;
 }
